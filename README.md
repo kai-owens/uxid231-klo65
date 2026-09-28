@@ -14,4 +14,4 @@ In this course, I would like to build a personal protfolio showcasing a little a
 
 ## AI use
 
-Test
+AI was used in this assignment to analyze my final README.md file to ensure project requirements were met along with familiarizing myself with Markdown rules and conventions.
