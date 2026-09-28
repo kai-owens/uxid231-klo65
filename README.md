@@ -10,7 +10,7 @@ I'm taking this course to work towards minor completion, but the contents taught
 
 ## Topic
 
-Test
+In this course, I would like to build a personal protfolio showcasing a little about me, my projects, games, and what i'm actively working on. The goal is to be able to use this site for co-op and job searching in the near future.
 
 ## AI use
 
