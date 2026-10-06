@@ -14,4 +14,8 @@ In this course, I would like to build a personal portfolio showcasing a little a
 
 ## AI use
 
+### Assignment 1
 I used Claude AI in this assignment to analyze my final README.md file to ensure project requirements were met along with familiarizing myself with Markdown rules and conventions.
+
+### Assignment 2
+I used Claude AI to analyze that my final project met project requirements. The LLM informed me of spelling mistakes, indentation issues, and clarified an instrcution on the assinment when I asked. I asked how I can put lists inside of lists too, since I wasn't sure if that was going to be possible. Got the answer and it looks sick.
