@@ -19,3 +19,6 @@ I used Claude AI in this assignment to analyze my final README.md file to ensure
 
 ### Assignment 2
 I used Claude AI to analyze that my index.html and contact.html project met project requirements. The LLM informed me of spelling mistakes, indentation issues, and clarified an instruction on the assignment when I asked. I asked how I can put lists inside of lists too (used in index.html to format my game list), since I wasn't sure if that was going to be possible. Got the answer and it looks sick.
+
+### Assignment 3
+I used Claude AI to review my repo against the Week 3 requirements, review tables, and explain proper resolution for images, write alt text for my images, and check indentations during table and scope set up.
