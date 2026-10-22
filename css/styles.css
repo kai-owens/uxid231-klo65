@@ -1,3 +1,5 @@
+/* type selectors - page wide defaults*/
+
 body {
     /* body selector for the whole page */
 }
@@ -7,13 +9,79 @@ h1 {
 }
 
 h2 {
-    /* h2 selector for subheadings */
+    /* sections headings and project titles */
 }
 
 h3 {
-    /* h3 selector for smaller headings */
+    /* game titles and table captions */
+}
+
+a {
+    /* anchor selector for links */
+}
+
+
+/* combinators on type selectors - elements in a region */
+
+nav a {
+    /* anchor selector for links in the header nav */
 }
 
 main p {
-    /* p selector for paragraphs */
+    /* paragraph selector for main content */
 }
+
+footer p {
+    /* paragraph selector for footer content */
+}
+
+
+
+/** class selectors - reusable components */
+
+.project-card {
+    /* project card selector for project cards */
+}
+
+.stats-table {
+    /* stats table selector for stats tables */
+}
+
+.button {
+    /* button selector for buttons */
+}
+
+
+
+/* combinators involving classes */
+
+nav a.current {
+    /* anchor selector for current page link in the header nav */
+}
+
+.project-card img {
+    /* image selector for project card images */
+}
+
+
+
+/* id selectors - unique components */
+
+#hero {
+    /* hero section selector for the hero section */
+}
+
+
+
+/* interactive states */
+
+nav a:hover,
+.button:hover {
+    /* anchor selector for hover state of links in the header nav */
+}
+
+nav a:focus-visible,
+.button:focus-visible {
+    /* anchor selector for focus-visible state of links in the header nav */
+}
+
