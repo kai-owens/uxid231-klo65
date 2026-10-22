@@ -23,7 +23,5 @@ I used Claude AI to analyze that my index.html and contact.html project met proj
 ### Assignment 3
 I used Claude AI to review my repo against the Week 3 requirements, review tables, and explain proper resolution for images, write alt text for my images, and check indentations during table and scope set up.
 
-## Questions
-
-### Folder naming change
-I renamed the folder for images and resources on my mac, but when pushed to origin the folder names on GitHub still contain capital letters. How to fix/Does it matter?
+### Assignment 4
+I used Claude AI to review my repo against the Week 4 requirements, plan my selectors, and walk me through adding class and id attributes to my HTML. I wrote the CSS myself and asked it to explain `nav a` vs `header nav a`.
