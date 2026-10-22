@@ -24,7 +24,7 @@ a {
 /* combinators on type selectors - elements in a region */
 
 nav a {
-    /* anchor selector for links in the header nav */
+    /* anchor selector for links in the nav */
 }
 
 main p {
@@ -56,7 +56,7 @@ footer p {
 /* combinators involving classes */
 
 nav a.current {
-    /* anchor selector for current page link in the header nav */
+    /* anchor selector for current page link in the nav */
 }
 
 .project-card img {
@@ -77,11 +77,11 @@ nav a.current {
 
 nav a:hover,
 .button:hover {
-    /* anchor selector for hover state of links in the header nav */
+    /* anchor selector for hover state of links in the nav */
 }
 
 nav a:focus-visible,
 .button:focus-visible {
-    /* anchor selector for focus-visible state of links in the header nav */
+    /* anchor selector for focus-visible state of links in the nav */
 }
 
