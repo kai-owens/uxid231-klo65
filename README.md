@@ -25,3 +25,6 @@ I used Claude AI to review my repo against the Week 3 requirements, review table
 
 ### Assignment 4
 I used Claude AI to review my repo against the Week 4 requirements, plan my selectors, and walk me through adding class and id attributes to my HTML. I wrote the CSS myself and asked it to explain `nav a` vs `header nav a`.
+
+### Assignment 5
+I used Claude AI to help me find typos, punctuation mistakes, and cross check the assignment rubric to my repo. Claude also explained the me WCAG-AA contrast ratios and helped me find a suitable color pallete.
