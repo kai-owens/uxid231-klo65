@@ -97,9 +97,8 @@ a:hover {
 .button:hover {
     /* button selector for hover state of buttons */
     background-color: var(--color-brand-dark);
-    color: var(--color-background)
+    color: var(--color-background);
 }
-
 
 a:focus-visible {
     /* anchor selector for focus-visible*/
