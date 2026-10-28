@@ -20,7 +20,7 @@ body {
 }
 
 h1, h2, h3 {
-    /* h1 selector for main headings */
+    /* h1, h2, h3 selector for main headings */
     color: var(--color-brand);
 }
 
