@@ -1,12 +1,12 @@
 /* design tokens - colors used across the site */
 
 :root {
-    --color-background: #fcfaf8;
-    --color-foreground: #1d2030;
-    --color-brand: #722dd2;
-    --color-brand-dark: #501f93;
-    --color-link: #086a9b;
-    --color-link-hover: #06496b;
+    --color-background: #16141f;
+    --color-foreground: #e8e7ef;
+    --color-brand: #b98ef6;
+    --color-brand-dark: #9f70e1;
+    --color-link: #44c9e4;
+    --color-link-hover: #84e2f5;
 }
 
 
@@ -89,13 +89,20 @@ nav a.current {
 
 /* interactive states */
 
-nav a:hover,
+a:hover {
+    /* anchor selector for hover state of links */
+    color: var(--color-link-hover);
+}
+
 .button:hover {
-    /* anchor selector for hover state of links in the nav */
+    /* button selector for hover state of buttons */
+    background-color: var(--color-brand-dark);
+    color: var(--color-background)
 }
 
-nav a:focus-visible,
-.button:focus-visible {
-    /* anchor selector for focus-visible state of links in the nav */
-}
 
+a:focus-visible {
+    /* anchor selector for focus-visible*/
+    outline: 2px solid var(--color-link);
+    outline-offset: 3px;
+}
