@@ -19,18 +19,9 @@ body {
     color: var(--color-foreground);
 }
 
-h1 {
+h1, h2, h3 {
     /* h1 selector for main headings */
     color: var(--color-brand);
-}
-
-h2 {
-    /* sections headings and project titles */
-    color: var(--color-brand);
-}
-
-h3 {
-    /* game titles and table captions */
 }
 
 a {
