@@ -15,14 +15,18 @@
 
 body {
     /* body selector for the whole page */
+    background-color: var(--color-background);
+    color: var(--color-foreground);
 }
 
 h1 {
     /* h1 selector for main headings */
+    color: var(--color-brand);
 }
 
 h2 {
     /* sections headings and project titles */
+    color: var(--color-brand);
 }
 
 h3 {
@@ -31,6 +35,8 @@ h3 {
 
 a {
     /* anchor selector for links */
+    color: var(--color-link);
+    text-decoration: underline;
 }
 
 
@@ -58,10 +64,13 @@ footer p {
 
 .stats-table {
     /* stats table selector for stats tables */
+    border: 2px solid var(--color-brand);
 }
 
 .button {
     /* button selector for buttons */
+    background-color: var(--color-brand);
+    color: var(--color-background);
 }
 
 
@@ -70,6 +79,7 @@ footer p {
 
 nav a.current {
     /* anchor selector for current page link in the nav */
+    color: var(--color-brand);
 }
 
 .project-card img {
