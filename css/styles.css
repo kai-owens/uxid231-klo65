@@ -1,3 +1,16 @@
+/* design tokens - colors used across the site */
+
+:root {
+    --color-background: #fcfaf8;
+    --color-foreground: #1d2030;
+    --color-brand: #722dd2;
+    --color-brand-dark: #501f93;
+    --color-link: #086a9b;
+    --color-link-hover: #06496b;
+}
+
+
+
 /* type selectors - page wide defaults*/
 
 body {
